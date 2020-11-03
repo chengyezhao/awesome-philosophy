@@ -10,19 +10,20 @@ Philosophy Learning Resources
 * [神经现实](https://neu-reality.com/)
 * [科学哲学论文网站](http://philsci-archive.pitt.edu/)
 
-
-# 哲学书
-* [中国哲学书电子化计划](https://ctext.org/zhs)
-* [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
-* [华盛顿大学儿童哲学中心推荐书籍](https://www.philosophyforchildren.org/resources/p4c-library/)
-* [Philosophical practice](http://www.pratiques-philosophiques.fr/en/free-books/)
-
 # 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
 * [唯理中国](https://www.veritaschina.org/)
 * [The Institute for Ethics and Emerging Technologies](http://ieet.org/)
 * [Gray Havens哲学非盈利组织](https://www.plato-philosophy.org/why-plato/)
 * [Journal of Evoluation and Technology](https://jetpress.org/)
+
+
+
+# 哲学书
+* [中国哲学书电子化计划](https://ctext.org/zhs)
+* [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
+* [华盛顿大学儿童哲学中心推荐书籍](https://www.philosophyforchildren.org/resources/p4c-library/)
+* [Philosophical practice](http://www.pratiques-philosophiques.fr/en/free-books/)
 
 
 # 哲学公众号
