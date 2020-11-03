@@ -8,6 +8,7 @@ Philosophy Learning Resources
 * [网络哲学百科](https://iep.utm.edu/)
 * [Philosophy and Bioethics Web Resources 生物伦理学](http://www.pages.drexel.edu/~cp28/links.htm)
 * [Journal of Evoluation and Technology](https://jetpress.org/)
+* [神经现实](https://neu-reality.com/)
 
 
 # 哲学书
@@ -21,6 +22,12 @@ Philosophy Learning Resources
 * [唯理中国](https://www.veritaschina.org/)
 * [The Institute for Ethics and Emerging Technologies](http://ieet.org/)
 * [Gray Havens哲学非盈利组织](https://www.plato-philosophy.org/why-plato/)
+
+# 哲学公众号
+* [保守主义评论](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwODEwNjg3Mg==&scene=124#wechat_redirect)
+* [神经现实](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0MjI1NTgxNQ==&scene=124#wechat_redirect)
+* [信瑞周报](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4MDE4NzA4MQ==&scene=124#wechat_redirect)
+* [蜗牛爬世界](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI3OTUyMzY4OQ==&scene=124#wechat_redirect)
 
 
 # 音/视频
