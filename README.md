@@ -24,6 +24,7 @@ Philosophy Learning Resources
 * [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
 * [华盛顿大学儿童哲学中心推荐书籍](https://www.philosophyforchildren.org/resources/p4c-library/)
 * [Philosophical practice](http://www.pratiques-philosophiques.fr/en/free-books/)
+* [BroadView 哲学书](https://broadviewpress.com/product-category/philosophy/)
 
 
 # 哲学公众号
