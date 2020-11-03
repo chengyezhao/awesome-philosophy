@@ -5,7 +5,7 @@ Philosophy Learning Resources
 # 哲学网站
 * [Routledge 哲学百科](https://www.rep.routledge.com/)
 * [斯坦福哲学百科](https://plato.stanford.edu/index.html)
-* [网络哲学大全](https://iep.utm.edu/)
+* [网络哲学百科](https://iep.utm.edu/)
 * [Philosophy and Bioethics Web Resources 生物伦理学](http://www.pages.drexel.edu/~cp28/links.htm)
 
 
@@ -13,6 +13,7 @@ Philosophy Learning Resources
 * [中国哲学书电子化计划](https://ctext.org/zhs)
 * [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
 * [儿童哲学书籍](https://www.philosophyforchildren.org/resources/p4c-library/)
+* [Philosophical practice](http://www.pratiques-philosophiques.fr/en/free-books/)
 
 # 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
