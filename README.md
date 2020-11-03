@@ -6,6 +6,7 @@ Philosophy Learning Resources
 # 哲学分类
 ## 认识论
 ## 伦理学
+* [Philosophy and Bioethics Web Resources](http://www.pages.drexel.edu/~cp28/links.htm)
 ## 政治哲学
 ## 心灵哲学
 
