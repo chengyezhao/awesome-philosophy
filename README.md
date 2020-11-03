@@ -40,6 +40,7 @@ Philosophy Learning Resources
 * [塔尔图大学哲学课程](https://www.flfi.ut.ee/en/department-philosophy/curriculum)
 * [Philosophical Reflections on Human Nature](http://www.pages.drexel.edu/~cp28/305s01.htm)
 * [爱丁堡大学哲学课程](http://www.drps.ed.ac.uk/20-21/dpt/ptmscphisr1f.htm)
+* [牛津大学 Philosophy, Ethics and Religion](https://www.ice.cam.ac.uk/courses/courses-subject/philosophy-ethics-and-religion)
 
 # 儿童哲学
 * [如何向小孩子介绍哲学](https://www.zhihu.com/question/28604988)
