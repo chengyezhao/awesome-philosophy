@@ -67,6 +67,7 @@ Philosophy Learning Resources
 * [Philosophy Fundation 哲学基金会](https://www.philosophy-foundation.org/)
 * [GIFT 哲学教育 英国](https://www.giftcourses.co.uk/)
 * [Jason Buckley](https://www.thephilosophyman.com/)
+* [雨果带你看世界](https://movie.douban.com/subject/25814538/)
 
 
 # 当代哲学家
