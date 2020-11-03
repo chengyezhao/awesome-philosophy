@@ -6,7 +6,6 @@ Philosophy Learning Resources
 * [Routledge 哲学百科](https://www.rep.routledge.com/)
 * [斯坦福哲学百科](https://plato.stanford.edu/index.html)
 * [网络哲学百科](https://iep.utm.edu/)
-* [Philosophy and Bioethics Web Resources 生物伦理学](http://www.pages.drexel.edu/~cp28/links.htm)
 * [神经现实](https://neu-reality.com/)
 * [科学哲学论文网站](http://philsci-archive.pitt.edu/)
 
