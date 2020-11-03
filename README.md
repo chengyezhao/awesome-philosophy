@@ -24,6 +24,7 @@ Philosophy Learning Resources
 # 哲学书
 * [中国哲学书电子化计划](https://ctext.org/zhs)
 * [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
+* [儿童哲学书籍](https://www.philosophyforchildren.org/resources/p4c-library/)
 
 # 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
@@ -62,3 +63,4 @@ Philosophy Learning Resources
 * [What Is Freedom? Teaching Kids Philosophy in a Pandemic](https://www.nytimes.com/2020/06/25/well/family/children-philosophy-lessons-coronavirus.html)
 * [Philosophy Fundation 哲学基金会](https://www.philosophy-foundation.org/)
 * [GIFT 哲学教育 英国](https://www.giftcourses.co.uk/)
+* [Jason Buckley](https://www.thephilosophyman.com/)
