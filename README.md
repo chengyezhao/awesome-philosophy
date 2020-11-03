@@ -22,4 +22,4 @@
 * [Plato 儿童哲学](https://www.plato-philosophy.org/why-plato/)
 * [Gray Havens哲学非盈利组织](https://www.plato-philosophy.org/why-plato/)
 * [Kids Philosophy SLAM 儿童哲学比赛](http://www.philosophyslam.org/)
-* [华盛顿大学儿童哲学中心]（https://www.philosophyforchildren.org/）
+* [华盛顿大学儿童哲学中心](https://www.philosophyforchildren.org/)
