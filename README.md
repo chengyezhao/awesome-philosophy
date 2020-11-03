@@ -12,7 +12,7 @@ Philosophy Learning Resources
 # 哲学书
 * [中国哲学书电子化计划](https://ctext.org/zhs)
 * [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
-* [儿童哲学书籍](https://www.philosophyforchildren.org/resources/p4c-library/)
+* [华盛顿大学儿童哲学中心推荐书籍](https://www.philosophyforchildren.org/resources/p4c-library/)
 * [Philosophical practice](http://www.pratiques-philosophiques.fr/en/free-books/)
 
 # 哲学组织
