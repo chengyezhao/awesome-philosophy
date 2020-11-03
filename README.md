@@ -25,8 +25,9 @@ Philosophy Learning Resources
 * [中国哲学书电子化计划](https://ctext.org/zhs)
 * [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
 
-# 哲学活动
+# 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
+* [唯理中国](https://www.veritaschina.org/)
 
 
 # 音/视频
