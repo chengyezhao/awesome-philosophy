@@ -2,12 +2,6 @@
 Philosophy Learning Resources
 哲学学习资源 
 
-
-# 当代哲学家
-* [David Chalmers 大卫 查莫斯](http://consc.net/)
-* [Alasdair Richmond](https://www.ed.ac.uk/profile/alasdair-richmond)
-* [Jana Mohr Lone 儿童哲学教育家](https://philosophyforchildren.blogspot.com/)
-
 # 哲学网站
 * [Routledge 哲学百科](https://www.rep.routledge.com/)
 * [斯坦福哲学百科](https://plato.stanford.edu/index.html)
@@ -59,3 +53,9 @@ Philosophy Learning Resources
 * [Philosophy Fundation 哲学基金会](https://www.philosophy-foundation.org/)
 * [GIFT 哲学教育 英国](https://www.giftcourses.co.uk/)
 * [Jason Buckley](https://www.thephilosophyman.com/)
+
+
+# 当代哲学家
+* [David Chalmers 大卫 查莫斯](http://consc.net/)
+* [Alasdair Richmond](https://www.ed.ac.uk/profile/alasdair-richmond)
+* [Jana Mohr Lone 儿童哲学教育家](https://philosophyforchildren.blogspot.com/)
