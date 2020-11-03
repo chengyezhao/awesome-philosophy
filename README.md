@@ -1,8 +1,6 @@
 # awesome-philosophy
 哲学学习资源 Philosophy Learning Resources
 
-# 哲学思想 
-
 
 # 哲学分类
 ## 认识论
@@ -20,13 +18,17 @@
 * [中国哲学书电子化计划](https://ctext.org/zhs)
 * [The Critique of Pure Reason 纯粹理性批判](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
 
-# 哲学组织
-# 活动
+# 哲学活动
+* [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
 
 
 # 音/视频
 * [The Ego is the Source of Fear 自我是恐惧之源](https://www.youtube.com/watch?v=vlea7PtVXJ0)
 * [Philosophy Bakes Bread, Radio Show & Podcast 哲学播客](https://tunein.com/podcasts/Philosophy-Podcasts/Philosophy-Bakes-Bread-Radio-Show--Podcast-p1175551/?topicId=130627180)
+* [哥德尔思想研究 ](https://www.bilibili.com/video/BV1EK4y1e7oT)
+* [西安交通大学：中国哲学经典著作导读](https://www.bilibili.com/video/BV19t411L7G5)
+* [康德《纯粹理性批判》导读](https://www.bilibili.com/video/BV1YJ411v7uk)
+* [西方文化名著导读 清华大学公开课](https://www.bilibili.com/video/BV19t411x7rE)
 
 # 课程
 * [得到 刘擎·西方现代思想40讲 ](https://www.dedao.cn/course/7Dl2p3wZn89JA5RhDdJ0LqayRA6EG1)
@@ -37,6 +39,7 @@
 * [Coursera Ancient Philosophy: Plato & His Predecessors](https://www.coursera.org/learn/plato)
 * [索菲亚大学哲学课程](https://www.mastersportal.com/studies/1237/philosophy.html#)
 * [塔尔图大学哲学课程](https://www.flfi.ut.ee/en/department-philosophy/curriculum)
+* [Philosophical Reflections on Human Nature](http://www.pages.drexel.edu/~cp28/305s01.htm)
 
 # 儿童哲学
 * [如何向小孩子介绍哲学](https://www.zhihu.com/question/28604988)
