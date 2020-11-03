@@ -41,6 +41,7 @@ Philosophy Learning Resources
 * [康德《纯粹理性批判》导读](https://www.bilibili.com/video/BV1YJ411v7uk)
 * [西方文化名著导读 清华大学公开课](https://www.bilibili.com/video/BV19t411x7rE)
 * [哲学系列-康德专题研究 邓晓芒——华中科技大学](https://www.bilibili.com/video/BV1tt411h7TT?from=search&seid=12182325322446971895)
+* [陈亚军 现代英美哲学](https://www.bilibili.com/video/BV1WW411a78m/?spm_id_from=333.788.videocard.3)
 
 # 课程
 * [得到 刘擎·西方现代思想40讲 ](https://www.dedao.cn/course/7Dl2p3wZn89JA5RhDdJ0LqayRA6EG1)
