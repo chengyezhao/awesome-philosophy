@@ -7,6 +7,7 @@ Philosophy Learning Resources
 * [斯坦福哲学百科](https://plato.stanford.edu/index.html)
 * [网络哲学百科](https://iep.utm.edu/)
 * [Philosophy and Bioethics Web Resources 生物伦理学](http://www.pages.drexel.edu/~cp28/links.htm)
+* [Journal of Evoluation and Technology](https://jetpress.org/)
 
 
 # 哲学书
