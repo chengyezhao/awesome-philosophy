@@ -19,6 +19,7 @@ Philosophy Learning Resources
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
 * [唯理中国](https://www.veritaschina.org/)
 * [The Institute for Ethics and Emerging Technologies](http://ieet.org/)
+* [Gray Havens哲学非盈利组织](https://www.plato-philosophy.org/why-plato/)
 
 
 # 音/视频
@@ -44,10 +45,9 @@ Philosophy Learning Resources
 * [牛津大学 Philosophy, Ethics and Religion](https://www.ice.cam.ac.uk/courses/courses-subject/philosophy-ethics-and-religion)
 
 # 儿童哲学
-* [如何向小孩子介绍哲学](https://www.zhihu.com/question/28604988)
-* [哲学教育与教育哲学评论](https://www.zhihu.com/question/28604988)
-* [Plato 儿童哲学](https://www.plato-philosophy.org/why-plato/)
-* [Gray Havens哲学非盈利组织](https://www.plato-philosophy.org/why-plato/)
+* [知乎 如何向小孩子介绍哲学](https://www.zhihu.com/question/28604988)
+* [知乎 哲学教育与教育哲学评论](https://www.zhihu.com/question/28604988)
+* [Plato 儿童哲学组织](https://www.plato-philosophy.org/why-plato/)
 * [Kids Philosophy SLAM 儿童哲学比赛](http://www.philosophyslam.org/)
 * [华盛顿大学儿童哲学中心](https://www.philosophyforchildren.org/)
 * [儿童哲学中国](http://www.p4c.org.cn/cn/index.aspx)
