@@ -13,6 +13,11 @@
 * [Alasdair Richmond](https://www.ed.ac.uk/profile/alasdair-richmond)
 * [Jana Mohr Lone 儿童哲学教育家](https://philosophyforchildren.blogspot.com/)
 
+# 哲学百科
+* [Routledge 哲学百科](https://www.rep.routledge.com/)
+* [斯坦福哲学百科](https://plato.stanford.edu/index.html)
+* [网络哲学大全](https://iep.utm.edu/)
+
 
 # 哲学书
 * [中国哲学书电子化计划](https://ctext.org/zhs)
