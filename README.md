@@ -3,22 +3,16 @@ Philosophy Learning Resources
 哲学学习资源 
 
 
-# 哲学分类
-## 认识论
-## 伦理学
-* [Philosophy and Bioethics Web Resources](http://www.pages.drexel.edu/~cp28/links.htm)
-## 政治哲学
-## 心灵哲学
-
 # 当代哲学家
 * [David Chalmers 大卫 查莫斯](http://consc.net/)
 * [Alasdair Richmond](https://www.ed.ac.uk/profile/alasdair-richmond)
 * [Jana Mohr Lone 儿童哲学教育家](https://philosophyforchildren.blogspot.com/)
 
-# 哲学百科
+# 哲学网站
 * [Routledge 哲学百科](https://www.rep.routledge.com/)
 * [斯坦福哲学百科](https://plato.stanford.edu/index.html)
 * [网络哲学大全](https://iep.utm.edu/)
+* [Philosophy and Bioethics Web Resources 生物伦理学](http://www.pages.drexel.edu/~cp28/links.htm)
 
 
 # 哲学书
@@ -29,6 +23,7 @@ Philosophy Learning Resources
 # 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
 * [唯理中国](https://www.veritaschina.org/)
+* [The Institute for Ethics and Emerging Technologies](http://ieet.org/)
 
 
 # 音/视频
