@@ -1,5 +1,6 @@
 # awesome-philosophy
-哲学学习资源 Philosophy Learning Resources
+Philosophy Learning Resources
+哲学学习资源 
 
 
 # 哲学分类
@@ -45,6 +46,7 @@
 * [索菲亚大学哲学课程](https://www.mastersportal.com/studies/1237/philosophy.html#)
 * [塔尔图大学哲学课程](https://www.flfi.ut.ee/en/department-philosophy/curriculum)
 * [Philosophical Reflections on Human Nature](http://www.pages.drexel.edu/~cp28/305s01.htm)
+* [爱丁堡大学哲学课程](http://www.drps.ed.ac.uk/20-21/dpt/ptmscphisr1f.htm)
 
 # 儿童哲学
 * [如何向小孩子介绍哲学](https://www.zhihu.com/question/28604988)
