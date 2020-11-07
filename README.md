@@ -30,6 +30,7 @@ Philosophy Learning Resources
 * [保守主义评论](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwODEwNjg3Mg==&scene=124#wechat_redirect)
 * [神经现实](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0MjI1NTgxNQ==&scene=124#wechat_redirect)
 * [信瑞周报](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4MDE4NzA4MQ==&scene=124#wechat_redirect)
+* [利维坦](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5MzE5MTUwNQ==&scene=124#wechat_redirect)
 * [蜗牛爬世界](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI3OTUyMzY4OQ==&scene=124#wechat_redirect)
 
 
