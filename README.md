@@ -8,6 +8,8 @@ Philosophy Learning Resources
 * [网络哲学百科](https://iep.utm.edu/)
 * [神经现实](https://neu-reality.com/)
 * [科学哲学论文网站](http://philsci-archive.pitt.edu/)
+* [The Partially Examined Life ](https://partiallyexaminedlife.com/)
+* [LSE Forum of Philosophy](https://blogs.lse.ac.uk/theforum/)
 
 # 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
