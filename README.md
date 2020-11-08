@@ -37,6 +37,7 @@ Philosophy Learning Resources
 
 
 # 音/视频
+* [Closer to Truth](https://www.closertotruth.com/)
 * [The Ego is the Source of Fear 自我是恐惧之源](https://www.youtube.com/watch?v=vlea7PtVXJ0)
 * [Philosophy Bakes Bread, Radio Show & Podcast 哲学播客](https://tunein.com/podcasts/Philosophy-Podcasts/Philosophy-Bakes-Bread-Radio-Show--Podcast-p1175551/?topicId=130627180)
 * [哥德尔思想研究 ](https://www.bilibili.com/video/BV1EK4y1e7oT)
