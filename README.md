@@ -81,3 +81,4 @@ Philosophy Learning Resources
 * [David Chalmers 大卫 查莫斯](http://consc.net/)
 * [Alasdair Richmond](https://www.ed.ac.uk/profile/alasdair-richmond)
 * [Jana Mohr Lone 儿童哲学教育家](https://philosophyforchildren.blogspot.com/)
+* [Mark Sprevak](https://marksprevak.com/)
