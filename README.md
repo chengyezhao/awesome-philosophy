@@ -11,6 +11,7 @@ Philosophy Learning Resources
 * [The Partially Examined Life ](https://partiallyexaminedlife.com/)
 * [LSE Forum of Philosophy](https://blogs.lse.ac.uk/theforum/)
 * [1000 words Philosophy](https://1000wordphilosophy.com/)
+* [Time Travel Philsophy](http://timetravelphilosophy.net/)
 
 # 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
