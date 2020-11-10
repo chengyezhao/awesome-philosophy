@@ -54,6 +54,8 @@ Philosophy Learning Resources
 * [得到 李林·宗教学10讲](https://www.dedao.cn/course/mlEA1baQN7WKeRBszyV8L9OgkryvYw)
 * [Coursera 哲学导论](https://www.coursera.org/learn/philosophy)
 * [Coursera 索伦·克尔凯郭尔：主体性，反讽与现代性危机](https://www.coursera.org/learn/kierkegaard)
+* [Coursera 科学哲学](https://www.coursera.org/learn/philosophy-of-science?courseSlug=philosophy-of-science&showOnboardingModal=check)
+* [Coursera 励志谦卑](https://www.coursera.org/learn/intellectual-humility-theory#syllabus)
 * [Philosophy 101: Intro to Philosophy](https://study.com/academy/course/philosophy-101-intro-to-philosophy.html#information)
 * [Philosophy 103: Ethics - Theory & Practice](https://study.com/academy/course/philosophy-103-ethics-theory-practice.html)
 * [Coursera Ancient Philosophy: Plato & His Predecessors](https://www.coursera.org/learn/plato)
