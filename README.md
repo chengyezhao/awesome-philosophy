@@ -84,3 +84,4 @@ Philosophy Learning Resources
 * [Jana Mohr Lone 儿童哲学教育家](https://philosophyforchildren.blogspot.com/)
 * [Mark Sprevak](https://marksprevak.com/)
 * [Elias Bareinboim](https://causalai.net/）
+* [Herman Cappelen](http://hermancappelen.net/index.html)
