@@ -12,6 +12,7 @@ Philosophy Learning Resources
 * [LSE Forum of Philosophy](https://blogs.lse.ac.uk/theforum/)
 * [1000 words Philosophy](https://1000wordphilosophy.com/)
 * [Time Travel Philsophy](http://timetravelphilosophy.net/)
+* [华夏音画 (China Culture Media)](https://history.walkingchina.com/) - 华夏先贤有声时空漫步画卷，融合东方哲学、先哲生平轨迹与双语学者原声导览。
 
 # 哲学组织
 * [EventBrite 哲学活动](https://www.eventbrite.com/d/online/philosophy/?page=1)
